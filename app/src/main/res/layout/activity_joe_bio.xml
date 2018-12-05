@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/joeBioActivityBackground"
+    tools:context=".JoeBioActivity">
+
+
+    <ScrollView
+        android:id="@+id/scrollView3"
+        android:layout_width="0dp"
+        android:layout_height="194dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/textview_border"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/scrollBackground"
+            android:padding="10sp"
+            android:text="Joe is currently a Android Software Development student at Pursuit. Prior to his acceptance in to the program, he was an Emergency Medical Technician and completed his BA in Psychology at Queens College. Joe has always been a fan of music and has dreams of combining his passion with the newly acquired skills as an Android programmer. Before getting his shit together, Joe was an underground Techno DJ and played at various venues in NYC such as Pacha and District 36. He's also performed at the legendary Winter Music Conference in Miami, hosted his own Radio Show for Global Mix Radio, and has collaborated with House music legend Junior Vasquez.   "
+            android:textColor="@color/nameText"
+            android:textStyle="bold" />
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

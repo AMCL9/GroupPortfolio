@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">GroupPortfolio</string>
+    <string name="app_name">JusJoMarleyTwo</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="title_activity_joseph">JosephActivity</string>
+    <string name="name_text">Joseph \n Salcedo</string>
+    <string name="item_one_text">GitHub Project One</string>
+    <string name="item_two_text">GitHub Project Two</string>
+    <string name="item_three_text">GitHub Project Three</string>
 </resources>
