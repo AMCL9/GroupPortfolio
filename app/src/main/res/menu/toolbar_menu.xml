@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+
+    <item
+        android:id="@+id/project_one"
+        android:title="@string/item_one_text"/>
+    <item
+        android:id="@+id/project_two"
+        android:title="@string/item_two_text"/>
+    <item
+        android:id="@+id/project_three"
+        android:title="@string/item_three_text"/>
+    app:showAsAction="never"/>
+</menu>
