@@ -3,7 +3,11 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="title_activity_joseph">JosephActivity</string>
     <string name="name_text">Joseph \n Salcedo</string>
+    <string name="ashley_name">Ashley \n Lewis</string>
     <string name="item_one_text">GitHub Project One</string>
     <string name="item_two_text">GitHub Project Two</string>
     <string name="item_three_text">GitHub Project Three</string>
+    <string name="ashley_is_currently">Ashley Melissia Christine Lewis is a 26-year-old aspiring Android Developer who enjoys running, bargain hunting and reading. She is obsessed with creating playlists. She is allergic to Sesame and Poppy Seeds. She is theatrical and loyal, but can also be very calculating and a bit idealistic. She is a West Indian - American Christian who defines herself as straight. After finishing school she then left academia to work in social services. She hopes to use her new skills as an early career developer to uplift the underprivileged. </string>
+    <string name="bio">Bio</string>
+    <string name="ashley_second_pic">ashley second pic</string>
 </resources>
